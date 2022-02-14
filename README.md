@@ -9,3 +9,5 @@ Display in the browser 3 types of charts: Pie Chart, Bar Chart and Linear Chart
 <img width="839" alt="image" src="https://user-images.githubusercontent.com/79573421/153458377-33276698-663d-464a-ae97-d584a9a2144e.png">
 
 
+all the charts images included into the code field 
+
